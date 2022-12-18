@@ -1,0 +1,44 @@
+.registration-section {
+    background-color: #289BDE;
+}
+
+.Registration-btn {
+    margin-left: 300px;
+}
+
+.fa-rating {
+    color: goldenrod;
+}
+
+.Previous-icon {
+
+    position: absolute !important;
+    height: 30px;
+    width: 30px;
+    background-color: rgb(209, 209, 226);
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.next-icon {
+    position: absolute !important;
+    height: 30px;
+    width: 30px;
+    background-color: rgb(23, 140, 179);
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+footer {
+    line-height: 9px;
+    background-color: black;
+}
+
+.social-icon {
+    color: white;
+    margin: 5px;
+}
